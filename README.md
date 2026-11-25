@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on<br>      Building shhh<br>      Leading NCS Club as President<br>👯 I’m looking to collaborate on<br>      AI and SaaS projects.<br>      Startup ideas and innovative tech products.<br>      Hackathons, tech events, and community initiatives.<br>
+ I’m currently working on<br>      Building shhh<br>      Leading NCS Club as President<br> I’m looking to collaborate on<br>      AI and SaaS projects.<br>      Startup ideas and innovative tech products.<br>      Hackathons, tech events, and community initiatives.<br>
 
 
 ## 🌐 Socials:
